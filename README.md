@@ -7,6 +7,7 @@
   1. `git clone https://github.com/phoenixbeats01/python-ebay-scraper.git`
   2. `cd python-ebay-scraper`
   3.  In a terminal run `python ebay_web_scraper.py` or `python3 ebay_web_scraper.py`
+  4. The script will generate a `scraper_data.csv` that has the scraped data.
 
 
 ### Requirements ####
